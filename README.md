@@ -4,7 +4,6 @@ This project contains a basic rock-paper-scissors-style Discord app written in J
 Below is a basic overview of the project structure:
 
 ```
-├── examples    -> short, feature-specific sample apps
 │   ├── app.js  -> finished app.js code
 │   ├── button.js
 │   ├── command.js
